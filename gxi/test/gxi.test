@@ -1,0 +1,5 @@
+The gxi package
+===============
+
+    >>> import gxi
+    >>> assert "git commands" in gxi.__doc__

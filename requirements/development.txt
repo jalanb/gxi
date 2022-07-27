@@ -1,0 +1,14 @@
+-r devops.txt
+
+ipython
+pudb
+pytest-icdiff
+pytest-instafail
+pytest-random-order
+pytest-pudb
+pytest-sugar
+requests
+rich-cli
+sh
+pytest-pudb
+pytest-sugar
